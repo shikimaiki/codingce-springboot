@@ -12,7 +12,7 @@
     <artifactId>myspringsecurity</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>myspringsecurity</name>
-    <description>更多精彩关注 "全栈自学社区" 微信公众号</description>
+    <description>更多精彩关注 "后端码匠" 微信公众号</description>
 
     <properties>
         <java.version>1.8</java.version>
